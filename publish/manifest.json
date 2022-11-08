@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c954ce6f47df9e931d008f5d63187532.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.6e8c328438965be33f65230862ac1d7a.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.fd1615c6444ff6d86546db42e55db4dd.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.29b081987205afc89f53dfd4df306176.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.83e7eed908baff2028140a72b015f000.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Luvas GK12",
+  "short_name": "Luvas GK12",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "VENHA FAZER PARTE DA FAMÍLIA QUE MAIS CRESCE NO BRASIL.",
+  "background_color": "#ffffff",
+  "theme_color": "#287ff4"
+}
