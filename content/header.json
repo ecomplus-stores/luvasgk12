@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "SUA LUVA PROFISSIONAL É AQUI, CONFIRA NOSSOS PRODUTOS.",
+    "text": "SUA LUVA PROFISSIONAL É AQUI, CONFIRA NOSSOS PRODUTOS. ",
     "link": "",
     "background": "#287ff4"
   },
@@ -10,7 +10,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/vertuario-termico?VERTUÁRIO TÉRMICO"
+    ],
     "random": 12,
     "full_width": true
   },
