@@ -29,6 +29,11 @@
       "enabled": true
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -62,6 +67,14 @@
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61421ec6522ab535e60f5479:categories:Bones:/bones",
+      "sort": "sales"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -74,11 +87,6 @@
           "img": "/img/uploads/8338-banner-pq-1-2-.png"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     }
   ]
 }
