@@ -43,16 +43,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6410b0494bd2e929c19c381b:categories:VERTUÁRIO TÉRMICO:/vertuario-termico",
-      "sort": "sales",
-      "title": "Vestuário Térmico ( Frete max. por conj. R$29,90 )"
+      "collection_id": "61421ef5522ab535e60f54dc:categories:Linha Panter:/linha-panter"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "61421ef5522ab535e60f54dc:categories:Linha Panter:/linha-panter"
+      "collection_id": "6410b0494bd2e929c19c381b:categories:VERTUÁRIO TÉRMICO:/vertuario-termico",
+      "sort": "sales",
+      "title": "Vestuário Térmico ( Frete max. por conj. R$29,90 )"
     },
     {
       "type": "collection-shelf",
@@ -77,7 +77,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61421ec6522ab535e60f5479:categories:Bones:/bones",
-      "sort": "sales"
+      "sort": "sales",
+      "title": "Bonés"
     },
     {
       "type": "dynamic-showcase",
