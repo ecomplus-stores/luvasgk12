@@ -8,8 +8,9 @@
       "/bones?BONÉS"
     ],
     "random": 12,
-    "full_width": false
+    "full_width": true
   },
+  "centralized_logo": true,
   "marketing_stripe": {
     "text": " ENTREGAMOS EM TODO BRASIL! 📦🚚",
     "link": "",
