@@ -29,9 +29,25 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6141fb16522ab535e60f252d:collections:VIPER:/linha-viper",
+      "title": "VIPER 🐍"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6141faf4522ab535e60f24ee:collections:PANTER:/linha-panter",
+      "title": "PANTER 🐯"
+    },
+    {
       "autoplay": 4000,
       "page": 1,
-      "title": "",
+      "title": "ALIEN 👽",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
@@ -44,23 +60,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6142229c522ab535e60f5c5c:categories:Linha Alien:/linha-alien"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61421ef5522ab535e60f54dc:categories:Linha Panter:/linha-panter"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6410b0494bd2e929c19c381b:categories:VERTUÁRIO TÉRMICO:/vertuario-termico",
-      "sort": "sales",
-      "title": "TÉRMICAS 👕"
+      "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
     },
     {
       "type": "dynamic-showcase",
