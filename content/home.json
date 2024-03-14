@@ -74,15 +74,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
+      "title": "ROUPAS TÉRMICAS",
+      "collection_id": "6410b0494bd2e929c19c381b:categories:TÉRMICAS:/vestuario-termico"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "ROUPAS TÉRMICAS",
-      "collection_id": "6410b0494bd2e929c19c381b:categories:TÉRMICAS:/vestuario-termico"
+      "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
     },
     {
       "type": "dynamic-showcase",
