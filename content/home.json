@@ -36,7 +36,7 @@
       "headless": false,
       "type": "collection-shelf",
       "limit": 12,
-      "collection_id": "61421f0b522ab535e60f5504:categories:Linha Viper:/linha-viper",
+      "collection_id": "6141fad7522ab535e60f24bb:collections:ALIEN:/linha-alien",
       "sort": "offers"
     },
     {
@@ -51,15 +51,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6410b0494bd2e929c19c381b:categories:VERTUÁRIO TÉRMICO:/vertuario-termico",
-      "sort": "sales",
-      "title": "TÉRMICAS 👕"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "61421ef5522ab535e60f54dc:categories:Linha Panter:/linha-panter"
     },
     {
@@ -67,9 +58,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "61421ec6522ab535e60f5479:categories:Bones:/bones",
+      "collection_id": "6410b0494bd2e929c19c381b:categories:VERTUÁRIO TÉRMICO:/vertuario-termico",
       "sort": "sales",
-      "title": "BONÉS"
+      "title": "TÉRMICAS 👕"
     },
     {
       "type": "dynamic-showcase",
