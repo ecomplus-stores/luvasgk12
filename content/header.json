@@ -10,7 +10,7 @@
     "random": 12,
     "full_width": true
   },
-  "centralized_logo": true,
+  "centralized_logo": false,
   "marketing_stripe": {
     "text": " ENTREGAMOS EM TODO BRASIL! 📦🚚",
     "link": "",
