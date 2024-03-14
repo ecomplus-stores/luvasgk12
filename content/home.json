@@ -59,9 +59,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1,
+      "page": 9,
       "collection_id": "6410b2ba4bd2e929c19c3d6e:collections:TÉRMICAS:/vestuario-termico",
-      "title": "ROUPAS TÉRMICAS"
+      "title": "ROUPAS TÉRMICAS",
+      "sort": "highest_price"
     },
     {
       "type": "collection-shelf",
