@@ -37,14 +37,6 @@
       "title": "VIPER 🐍"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6141faf4522ab535e60f24ee:collections:PANTER:/linha-panter",
-      "title": "PANTER 🐯"
-    },
-    {
       "autoplay": 4000,
       "page": 1,
       "title": "ALIEN 👽",
@@ -60,18 +52,34 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6141faf4522ab535e60f24ee:collections:PANTER:/linha-panter",
+      "title": "PANTER 🐯"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6410b2ba4bd2e929c19c3d6e:collections:TÉRMICAS:/vestuario-termico",
+      "title": "ROUPAS TÉRMICAS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/2-2-.png"
+          "img": "/img/uploads/2.png"
         }
       ]
     }
