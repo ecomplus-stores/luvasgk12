@@ -1,15 +1,4 @@
 {
-  "marketing_stripe": {
-    "text": " ENTREGAMOS EM TODO BRASIL! 📦🚚",
-    "link": "",
-    "background": "#040404",
-    "color": "#ffffff"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [
       "/linha-alien?ALIEN",
@@ -19,11 +8,23 @@
       "/bones?BONÉS"
     ],
     "random": 12,
-    "full_width": true
+    "full_width": false
   },
-  "desktop_megamenu": false,
-  "search_input": true,
+  "marketing_stripe": {
+    "text": " ENTREGAMOS EM TODO BRASIL! 📦🚚",
+    "link": "",
+    "background": "#040404",
+    "color": "#ffffff"
+  },
   "alphabetical_order_submenu": false,
+  "popup": "/img/uploads/design-sem-nome.png",
+  "name_all_departments": "",
+  "search_input": true,
+  "desktop_megamenu": false,
   "full_width_submenu": false,
-  "popup": "/img/uploads/design-sem-nome.png"
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": true,
+    "socials": true
+  }
 }
