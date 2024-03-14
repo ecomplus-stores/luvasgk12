@@ -1,26 +1,26 @@
 {
   "domain": "www.luvasgk12.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#287ff4",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/luvasgk12",
-  "logo": "/img/uploads/8338-whatsapp-image-2021-09-08-at-14.38.40.jpeg",
-  "name": "Luvas GK12",
-  "short_name": "Luvas GK12",
+  "logo": "/img/uploads/3.png",
+  "name": "LUVAS GK12",
+  "short_name": "LUVAS GK12",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
-  "favicon": "/img/uploads/8338-whatsapp-image-2021-09-08-at-14.38.40.jpeg",
+  "font_family": "Outfit",
+  "favicon": "/img/uploads/3.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#f88200",
-  "icon": "/img/uploads/8338-whatsapp-image-2021-09-08-at-14.38.40.jpeg",
+  "icon": "/img/uploads/3.png",
   "store_id": 8338,
   "description": "VENHA FAZER PARTE DA FAMÍLIA QUE MAIS CRESCE NO BRASIL.",
-  "large_icon": "/img/uploads/8338-whatsapp-image-2021-09-08-at-14.38.40.jpeg"
+  "large_icon": "/img/uploads/3.png"
 }
