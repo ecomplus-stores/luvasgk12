@@ -11,7 +11,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/linha-alien?ALIEN",
+      "/linha-panter?PANTER",
+      "/linha-viper?VIPER",
+      "/vestuario-termico?TÉRMICAS",
+      "/camisas?CAMISAS GK12",
+      "/bones?BONÉS",
+      "/pre-vendas?PRÉ VENDAS"
+    ],
     "random": 12,
     "full_width": true
   },
