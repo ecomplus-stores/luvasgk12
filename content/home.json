@@ -85,11 +85,6 @@
       "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
