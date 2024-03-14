@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "SUA LUVA PROFISSIONAL É AQUI, CONFIRA NOSSOS PRODUTOS.",
+    "text": " ENTREGAMOS EM TODO BRASIL! 📦🚚",
     "link": "",
-    "background": "#287ff4"
+    "background": "#040404",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
