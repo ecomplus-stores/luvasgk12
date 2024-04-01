@@ -37,9 +37,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 2,
-      "collection_id": "6141fb16522ab535e60f252d:collections:VIPER:/linha-viper",
-      "title": "VIPER 🐍"
+      "page": 1,
+      "collection_id": "61421f0b522ab535e60f5504:categories:VIPER 🐍:/linha-viper",
+      "title": "VIPER 🐍",
+      "sort": "views"
     },
     {
       "autoplay": 4000,
