@@ -34,6 +34,14 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6141fb16522ab535e60f252d:collections:VIPER:/linha-viper",
+      "title": "VIPER 🐍"
+    },
+    {
       "autoplay": 4000,
       "page": 1,
       "title": "ALIEN 👽",
@@ -43,14 +51,6 @@
       "limit": 12,
       "collection_id": "6141fad7522ab535e60f24bb:collections:ALIEN:/linha-alien",
       "sort": "offers"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6141fb16522ab535e60f252d:collections:VIPER:/linha-viper",
-      "title": "VIPER 🐍"
     },
     {
       "type": "collection-shelf",
