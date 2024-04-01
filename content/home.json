@@ -36,8 +36,8 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 11,
-      "page": 1,
+      "limit": 12,
+      "page": 2,
       "collection_id": "6141fb16522ab535e60f252d:collections:VIPER:/linha-viper",
       "title": "VIPER 🐍"
     },
