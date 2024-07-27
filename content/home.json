@@ -16,12 +16,24 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/2-3-.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2.jpg"
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
     },
     {
       "type": "collection-shelf",
@@ -74,13 +86,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
     },
     {
       "type": "banners-grid",
