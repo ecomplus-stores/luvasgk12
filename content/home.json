@@ -29,22 +29,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61421f0b522ab535e60f5504:categories:VIPER 🐍:/linha-viper",
-      "title": "VIPER 🐍",
-      "sort": null
-    },
-    {
       "autoplay": 4000,
       "page": 1,
       "title": "ALIEN 👽",
@@ -62,6 +46,22 @@
       "page": 1,
       "collection_id": "6141faf4522ab535e60f24ee:collections:PANTER:/linha-panter",
       "title": "PANTER 🐯"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61421f0b522ab535e60f5504:categories:VIPER 🐍:/linha-viper",
+      "title": "VIPER 🐍",
+      "sort": null
     },
     {
       "type": "collection-shelf",
