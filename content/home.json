@@ -52,13 +52,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "61421f0b522ab535e60f5504:categories:VIPER 🐍:/linha-viper",
       "title": "VIPER 🐍",
       "sort": null
@@ -86,6 +79,13 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
     },
     {
       "type": "banners-grid",
