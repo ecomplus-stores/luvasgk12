@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": false,
-    "text": "ENTREGAMOS PARA TODO BRASIL!"
+    "text": "ENTREGAMOS PARA TODO BRASIL!",
+    "title": "FRETE GRÁTIS "
   },
   "installments": {
     "show": true,
