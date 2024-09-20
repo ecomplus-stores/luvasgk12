@@ -29,6 +29,37 @@
       "enabled": true
     },
     {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "texto": "Uma luva de alta qualidade , boa em todos os requisitos traz muita confiança pra nós goleiros e nos faz ter um rendimento muito bom.",
+          "cidade": "Guaratinguetá - SP",
+          "nome": "Luiz Otavio ",
+          "img": "/img/uploads/luiz-otavio.jpg"
+        },
+        {
+          "img": "/img/uploads/heitor-aranha-.jpg",
+          "nome": "Heitor Aranha ",
+          "cidade": "Belem - PA",
+          "texto": "Sensacional a luva, senti segurança total desde a primeira vez que usei, o encaixe da luva na mão é perfeito, o grip e a durabilidade da luva são impecáveis!"
+        },
+        {
+          "img": "/img/uploads/sergio.jpg",
+          "nome": "Paulo Sergio ",
+          "texto": "Esta já é segunda luva GK12 que comprei e como sempre a qualidade me surpreende, mas uma vez obrigado em breve estarei adquirindo mas uma 🙌🏻🤜🏻🤛🏻",
+          "cidade": "Belém - PA "
+        },
+        {
+          "img": "/img/uploads/thaina-.jpg",
+          "nome": "Taina Rodrigues ",
+          "cidade": "Brasília - DF ",
+          "texto": "Uso a luva a 4 anos, tenho ótimas experiências com a gk12. Luva com ótima qualidade, fica com o encaixe perfeito de acordo com o número da sua mão, com um excelente grip  de bastante durabilidade!"
+        }
+      ],
+      "title": "SUA OPNIÃO É MUITO IMPORTATE PARA NÓS!!!!!  "
+    },
+    {
       "autoplay": 4000,
       "page": 1,
       "title": "ALIEN 👽",
@@ -94,37 +125,6 @@
           "img": "/img/uploads/qual-e-1-.jpg"
         }
       ]
-    },
-    {
-      "type": "review-carousel",
-      "autoplay": 9000,
-      "reviews": [
-        {
-          "texto": "Uma luva de alta qualidade , boa em todos os requisitos traz muita confiança pra nós goleiros e nos faz ter um rendimento muito bom.",
-          "cidade": "Guaratinguetá - SP",
-          "nome": "Luiz Otavio ",
-          "img": "/img/uploads/luiz-otavio.jpg"
-        },
-        {
-          "img": "/img/uploads/heitor-aranha-.jpg",
-          "nome": "Heitor Aranha ",
-          "cidade": "Belem - PA",
-          "texto": "Sensacional a luva, senti segurança total desde a primeira vez que usei, o encaixe da luva na mão é perfeito, o grip e a durabilidade da luva são impecáveis!"
-        },
-        {
-          "img": "/img/uploads/sergio.jpg",
-          "nome": "Paulo Sergio ",
-          "texto": "Esta já é segunda luva GK12 que comprei e como sempre a qualidade me surpreende, mas uma vez obrigado em breve estarei adquirindo mas uma 🙌🏻🤜🏻🤛🏻",
-          "cidade": "Belém - PA "
-        },
-        {
-          "img": "/img/uploads/thaina-.jpg",
-          "nome": "Taina Rodrigues ",
-          "cidade": "Brasília - DF ",
-          "texto": "Uso a luva a 4 anos, tenho ótimas experiências com a gk12. Luva com ótima qualidade, fica com o encaixe perfeito de acordo com o número da sua mão, com um excelente grip  de bastante durabilidade!"
-        }
-      ],
-      "title": "SUA OPNIÃO É MUITO IMPORTATE PARA NÓS!!!!!  "
     }
   ]
 }
