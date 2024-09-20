@@ -94,6 +94,19 @@
           "img": "/img/uploads/qual-e-1-.jpg"
         }
       ]
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "texto": "Uma luva de alta qualidade , boa em todos os requisitos traz muita confiança pra nós goleiros e nos faz ter um rendimento muito bom.",
+          "cidade": "Guaratinguetá",
+          "nome": "Luiz Otavio ",
+          "img": "/img/uploads/luiz-otavio.jpg"
+        }
+      ],
+      "title": "FAMILIA NOS MANDE SEU DEPOIMENTO E FOTOS !!!!!!!!"
     }
   ]
 }
