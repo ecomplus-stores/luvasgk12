@@ -29,6 +29,65 @@
       "enabled": true
     },
     {
+      "autoplay": 4000,
+      "page": 1,
+      "title": "ALIEN 👽",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "limit": 12,
+      "collection_id": "6141fad7522ab535e60f24bb:collections:ALIEN:/linha-alien",
+      "sort": "offers"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6141faf4522ab535e60f24ee:collections:PANTER:/linha-panter",
+      "title": "PANTER 🐯"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61421f0b522ab535e60f5504:categories:VIPER 🐍:/linha-viper",
+      "title": "VIPER 🐍",
+      "sort": null
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 9,
+      "collection_id": "6410b2ba4bd2e929c19c3d6e:collections:TÉRMICAS:/vestuario-termico",
+      "title": "ROUPAS TÉRMICAS",
+      "sort": "highest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "ROUPAS TÉRMICAS",
+      "collection_id": "6410b0494bd2e929c19c381b:categories:TÉRMICAS:/vestuario-termico"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
+    },
+    {
       "type": "review-carousel",
       "autoplay": 9000,
       "reviews": [
@@ -100,65 +159,6 @@
         }
       ],
       "title": "SUA OPNIÃO É MUITO IMPORTATE PARA NÓS!!!!!  "
-    },
-    {
-      "autoplay": 4000,
-      "page": 1,
-      "title": "ALIEN 👽",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "limit": 12,
-      "collection_id": "6141fad7522ab535e60f24bb:collections:ALIEN:/linha-alien",
-      "sort": "offers"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6141faf4522ab535e60f24ee:collections:PANTER:/linha-panter",
-      "title": "PANTER 🐯"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61421f0b522ab535e60f5504:categories:VIPER 🐍:/linha-viper",
-      "title": "VIPER 🐍",
-      "sort": null
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 9,
-      "collection_id": "6410b2ba4bd2e929c19c3d6e:collections:TÉRMICAS:/vestuario-termico",
-      "title": "ROUPAS TÉRMICAS",
-      "sort": "highest_price"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "ROUPAS TÉRMICAS",
-      "collection_id": "6410b0494bd2e929c19c381b:categories:TÉRMICAS:/vestuario-termico"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
     },
     {
       "type": "banners-grid",
