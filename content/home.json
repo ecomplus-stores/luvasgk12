@@ -8,6 +8,12 @@
       "full_width": false,
       "slides": [
         {
+          "start": "2024-10-18T03:00:00.000Z",
+          "end": "2024-10-31T03:00:00.000Z",
+          "img": "/img/uploads/outubro-rosa.jpg",
+          "link": "https://www.luvasgk12.com.br/yc993zwh8-c848-c729"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/pontos-fidelidade.jpg"
@@ -29,12 +35,6 @@
           "end": "",
           "img": "/img/uploads/2-3-.jpg",
           "link": "https://www.luvasgk12.com.br/linha-viper"
-        },
-        {
-          "start": "2024-10-18T03:00:00.000Z",
-          "end": "2024-10-31T03:00:00.000Z",
-          "img": "/img/uploads/outubro-rosa.jpg",
-          "link": "https://www.luvasgk12.com.br/yc993zwh8-c848-c729"
         }
       ]
     },
