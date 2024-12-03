@@ -43,6 +43,13 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
+    },
+    {
       "autoplay": 4000,
       "page": 1,
       "title": "ALIEN 👽",
@@ -93,13 +100,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6141fb2a522ab535e60f254b:collections:BONÉS:/bones"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
     },
     {
       "type": "review-carousel",
