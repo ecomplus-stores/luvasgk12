@@ -41,6 +41,13 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": null
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
     },
     {
@@ -181,13 +188,6 @@
           "img": "/img/uploads/qual-e-1-.jpg"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null
     }
   ]
 }
