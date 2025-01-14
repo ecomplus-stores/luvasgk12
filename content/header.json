@@ -5,8 +5,7 @@
       "/linha-panter?PANTER",
       "/linha-viper?VIPER",
       "/vestuario-termico?TÉRMICAS",
-      "/bones?BONÉS",
-      "/phoenix?PHOENIX"
+      "/bones?BONÉS"
     ],
     "random": 12,
     "full_width": true
