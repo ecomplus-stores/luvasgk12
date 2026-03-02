@@ -290,13 +290,7 @@
     </url>
   
     <url>
-      <loc>https://www.luvasgk12.com.br/bones</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.luvasgk12.com.br/camisa</loc>
+      <loc>https://www.luvasgk12.com.br/linha-alien</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -314,7 +308,13 @@
     </url>
   
     <url>
-      <loc>https://www.luvasgk12.com.br/linha-alien</loc>
+      <loc>https://www.luvasgk12.com.br/bones</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.luvasgk12.com.br/camisas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -332,19 +332,19 @@
     </url>
   
     <url>
-      <loc>https://www.luvasgk12.com.br/linha-phoenix</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.luvasgk12.com.br/camisas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.luvasgk12.com.br/phoenix</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.luvasgk12.com.br/camisa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.luvasgk12.com.br/linha-phoenix</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -434,15 +434,15 @@
     </url>
   
     <url>
-      <loc>https://www.luvasgk12.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.luvasgk12.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.luvasgk12.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
