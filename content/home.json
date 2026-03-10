@@ -21,11 +21,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pontos-fidelidade.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/2-1-.jpg",
           "link": "https://www.luvasgk12.com.br/linha-alien"
         },
@@ -40,6 +35,11 @@
           "end": "",
           "img": "/img/uploads/2-3-.jpg",
           "link": "https://www.luvasgk12.com.br/linha-viper"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pontos-fidelidade.jpg"
         }
       ]
     },
