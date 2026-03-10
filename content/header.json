@@ -1,11 +1,7 @@
 {
   "categories_list": {
     "featured": [
-      "/linha-alien?ALIEN",
-      "/linha-panter?PANTER",
-      "/linha-viper?VIPER",
-      "/vestuario-termico?TÉRMICAS",
-      "/bones?BONÉS"
+      "/pre-vendas?PRÉ VENDAS"
     ],
     "random": 12,
     "full_width": true
@@ -18,7 +14,7 @@
     "color": "#ffffff"
   },
   "alphabetical_order_submenu": false,
-  "popup": "/img/uploads/campeoes-as-convocadas-gk12.jpg",
+  "popup": "/img/uploads/2.png",
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": false,
