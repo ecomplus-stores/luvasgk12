@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/capa-pre.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/capa-phoenix.jpg",
           "link": "/linha-phoenix"
         },
@@ -35,11 +40,6 @@
           "end": "",
           "img": "/img/uploads/2-3-.jpg",
           "link": "https://www.luvasgk12.com.br/linha-viper"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capa-pre.png"
         }
       ]
     },
