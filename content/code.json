@@ -1,5 +1,5 @@
 {
-  "css": "  button, .btn {\n    font-size: 0 !important;\n}\n\nbutton::after, .btn::after {\n  content: \"GARANTIR MINHA LUVA\";\n  font-size: 16px;\n  font-weight: bold;\n}",
+  "css": "button, .btn, .product__buy, .buy-button, .add-to-cart {\nfont-size: 0 !important;\n}\n\nbutton::after,\n.btn::after,\n.product__buy::after,\n.buy-button::after,\n.add-to-cart::after {\ncontent: \"GARANTIR MINHA LUVA\" !important;\nfont-size: 16px;\nfont-weight: bold;\n}",
   "html_head": "",
   "html_body": ""
 }
