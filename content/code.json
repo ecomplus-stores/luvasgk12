@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "@media(max-width: 767px) {\n  #product-description iframe {\n      width: 100% !important;\n      height: auto !important;\n    }\n}",
   "html_head": "",
   "html_body": ""
 }
