@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "button[data-testid=\"buy-button\"] {\nfont-size: 0 !important;\n}\n\nbutton[data-testid=\"buy-button\"]::after {\ncontent: \"GARANTIR MINHA LUVA\";\nfont-size: 16px;\nfont-weight: bold;\n}",
   "html_head": "",
   "html_body": ""
 }
