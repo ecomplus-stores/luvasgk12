@@ -1,5 +1,5 @@
 {
-  "css": " ",
+  "css": "  button {\n    font-weight: bold;\n    text-transform: uppercase;\n}",
   "html_head": "",
   "html_body": ""
 }
