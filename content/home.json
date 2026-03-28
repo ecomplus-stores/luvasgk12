@@ -52,14 +52,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "677e98b0a0c96d539303736f:collections:PHOENIX:/phoenix"
+      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "614b1ee4bf447b5f0e035e72:categories:PRÉ VENDAS:/pre-vendas"
+      "collection_id": "677e98b0a0c96d539303736f:collections:PHOENIX:/phoenix"
     },
     {
       "autoplay": 4000,
