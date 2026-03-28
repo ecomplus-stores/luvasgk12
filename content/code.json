@@ -1,5 +1,5 @@
 {
-  "css": "  button {\n    font-weight: bold;\n    text-transform: uppercase;\n}",
+  "css": "  button, .btn {\n    font-size: 0 !important;\n}\n\nbutton::after, .btn::after {\n  content: \"GARANTIR MINHA LUVA\";\n  font-size: 16px;\n  font-weight: bold;\n}",
   "html_head": "",
   "html_body": ""
 }
